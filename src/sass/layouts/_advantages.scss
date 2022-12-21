@@ -48,7 +48,7 @@
 .advantages-box__bucket-one::after {
   content: url('../images/Advantages/bucket-one-mobile-1x.png');
   position: absolute;
-  left: 7px;
+  left: -3px;
   top: -44px;
   width: 30px;
   height: 50px;
@@ -68,7 +68,7 @@
   position: absolute;
   width: 30px;
   height: 50px;
-  left: 4px;
+  left: -2px;
   top: -3px;
 }
 @media (min-device-pixel-ratio: 2),
@@ -87,7 +87,7 @@
   position: absolute;
   width: 30px;
   height: 50px;
-  left: -12px;
+  left: -18px;
   top: 21px;
 }
 @media (min-device-pixel-ratio: 2),

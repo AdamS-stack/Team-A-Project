@@ -26,7 +26,9 @@
 
   font-size: 36px;
 }
-
+.advantages-box__bucket-one {
+  padding-top: 40px;
+}
 .advantages-box__text {
   font-weight: 700;
   font-size: 12px;
@@ -59,7 +61,7 @@
   }
 }
 .advantages-box__bucket-two {
-  padding-top: 38px;
+  padding-top: 66px;
 }
 .advantages-box__bucket-two::after {
   content: url('../images/Advantages/bucket-two-mobile-1x.png');
@@ -77,7 +79,7 @@
   }
 }
 .advantages-box__heart {
-  padding-top: 66px;
+  padding-top: 80px;
 }
 
 .advantages-box__heart::after {
